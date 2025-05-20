@@ -1,0 +1,17 @@
+# Ignore data and models
+data/
+models/
+
+# Prevent accidental large file pushes
+*.csv
+*.json
+*.joblib
+*.pkl
+*.h5
+*.pt
+
+# Other common ignores
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
