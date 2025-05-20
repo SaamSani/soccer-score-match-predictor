@@ -1,1 +1,0 @@
-# soccer-score-match-predictor
